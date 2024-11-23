@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-23T08:54:24 IST" name="Default suite" finished-at="2024-11-23T08:54:31 IST" duration-ms="6690">
+    <groups>
+    </groups>
+    <test started-at="2024-11-23T08:54:24 IST" name="Default test" finished-at="2024-11-23T08:54:31 IST" duration-ms="6690">
+      <class name="com.runner.LumaTestRunner">
+        <test-method is-config="true" signature="setteUp()[pri:0, instance:com.runner.LumaTestRunner@6574a52c]" started-at="2024-11-23T08:54:24 IST" name="setteUp" finished-at="2024-11-23T08:54:30 IST" duration-ms="6044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setteUp -->
+        <test-method signature="womenSearchModel()[pri:1, instance:com.runner.LumaTestRunner@6574a52c]" started-at="2024-11-23T08:54:30 IST" name="womenSearchModel" finished-at="2024-11-23T08:54:31 IST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womenSearchModel -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.runner.LumaTestRunner@6574a52c]" started-at="2024-11-23T08:54:31 IST" name="close" finished-at="2024-11-23T08:54:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.runner.LumaTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
